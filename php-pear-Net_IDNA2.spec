@@ -58,3 +58,21 @@ fi
 %defattr(-,root,root)
 %{_datadir}/pear/%{_class}
 %{_datadir}/pear/packages/%{upstream_name}.xml
+
+
+%changelog
+* Fri Dec 16 2011 Oden Eriksson <oeriksson@mandriva.com> 0.1.1-3mdv2012.0
++ Revision: 742145
+- fix major breakage by careless packager
+- delete one of them
+
+* Fri May 27 2011 Oden Eriksson <oeriksson@mandriva.com> 0.1.1-2
++ Revision: 679418
+- mass rebuild
+
+* Sat Jan 22 2011 Adam Williamson <awilliamson@mandriva.org> 0.1.1-1
++ Revision: 632388
+- add source
+- fix source extension
+- imported package php-pear-Net_IDNA2
+
