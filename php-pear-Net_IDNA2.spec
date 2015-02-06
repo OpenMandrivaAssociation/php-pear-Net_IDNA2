@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.1.1
-Release:	4
+Release:	5
 Summary:	Punycode encoding and decoding
 License:	PHP License
 Group:		Development/PHP
