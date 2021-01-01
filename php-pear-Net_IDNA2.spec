@@ -3,8 +3,8 @@
 %define		upstream_name	%{_class}_%{_subclass}
 
 Name:		php-pear-%{upstream_name}
-Version:	0.1.1
-Release:	5
+Version:	0.2.0
+Release:	1
 Summary:	Punycode encoding and decoding
 License:	PHP License
 Group:		Development/PHP
