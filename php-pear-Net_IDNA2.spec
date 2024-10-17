@@ -8,7 +8,7 @@ Release:	2
 Summary:	Punycode encoding and decoding
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Net_IDNA2/
+URL:		https://pear.php.net/package/Net_IDNA2/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
